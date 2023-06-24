@@ -131,7 +131,7 @@ The change the number on CONF_SWAPSIZE = 2048 to CONF_SWAPSIZE=100. Having done 
 # Help and Reference
 
 <mark><h3>Files inside this project -</h3></mark>
-<ol>
+<p><ol>
 <li> dataset_picam.py : Python Script used to capture train data images when using Raspberry PI camera module.</li>
 <li> dataset_nrmlcam.py : Python Script used to capture train data images using other camera modules.</li>
 <li> facial_recog.py : Main python script, running this will intiate Face Recognition Module.</li> 
@@ -139,7 +139,8 @@ The change the number on CONF_SWAPSIZE = 2048 to CONF_SWAPSIZE=100. Having done 
 <li> haarcascade_frontalface_default.xml : Xml file that contains face_recognition codecs.</li>
 <li> dataset_folder : This is the parent folder of individual target person subfolder where test data images are stored.</li>
 <li> photo_folder : This is where output images will be saved.</li>
-</ol>
-<strong>- For learning more about openCV visit [opencv.org](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+</ol></p>
 <br>
-- Project reference link [here](https://pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/).</strong>
+
+- For learning more about openCV visit [opencv.org](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html).
+- Project reference link [here](https://pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/).
