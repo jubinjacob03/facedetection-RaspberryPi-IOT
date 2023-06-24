@@ -125,3 +125,8 @@ The change the number on CONF_SWAPSIZE = 2048 to CONF_SWAPSIZE=100. Having done 
 
 
 <em>sudo systemctl restart dphys-swapfile  </em>
+
+# Help and Reference
+
+- For learning more about openCV visit [opencv.org](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html).
+- Project reference link [here](https://pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/).
